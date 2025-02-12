@@ -10,4 +10,4 @@
 * [CURRENT_MONTHYEAR](/parameters/current_monthyear/README.md)
 * [CURRENT_USER](/parameters/current_user/README.md)
 * [CURRENT_YEAR](/parameters/current_year/README.md)
-* [TODAY](/parameters/today/README.md
+* [TODAY](/parameters/today/README.md)
