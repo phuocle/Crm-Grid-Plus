@@ -22,12 +22,12 @@ CRM GRID PLUS 2 transforms your Dynamics CRM/CDS grid with a new look and feel, 
 
 ### With 🎀CRM GRID PLUS 2🎀, you can do that
 
-# CRM GRID PLUS 2 DEMO ENVIRONMENT
+# DEMO ENVIRONMENT
 * Url: **https://demo-crmgridplus2.crm5.dynamics.com**
 * Email: **demo@crmgridplus.com**
 * Password: **Aa@112233!**
 
-# CRM GRID PLUS 2 PARAMETERS
+# PARAMETERS
 * [ADD_DAY](/parameters/add_days/README.md)
 * [CURRENT_DAY](/parameters/current_day/README.md)
 * [CURRENT_MONTH](/parameters/current_month/README.md)
@@ -40,5 +40,5 @@ CRM GRID PLUS 2 transforms your Dynamics CRM/CDS grid with a new look and feel, 
 * [CURRENT_YEAR](/parameters/current_year/README.md)
 * [TODAY](/parameters/today/README.md)
 
-# DOWNLOAD CRM GRID PLUS 2
+# DOWNLOAD
 * [Release](https://github.com/phuocle/Crm-Grid-Plus/releases)
