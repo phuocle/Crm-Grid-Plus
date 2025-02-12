@@ -6,6 +6,6 @@
 
 **CRM GRID PLUS 2** format with the requirements in the **classic grid**
 
-**CRM GRID PLUS 2** format with the requirements in the **Advance Find**
+**CRM GRID PLUS 2** format with the requirements in the **Advanced Find**
 
 ## Notes

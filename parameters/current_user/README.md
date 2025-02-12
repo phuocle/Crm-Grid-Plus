@@ -13,7 +13,7 @@
 **CRM GRID PLUS 2** format with the requirements in the **classic grid**
 ![](result3.png)
 
-**CRM GRID PLUS 2** format with the requirements in the **Advance Find**
+**CRM GRID PLUS 2** format with the requirements in the **Advanced Find**
 ![](result4.png)
 
 ## Notes
