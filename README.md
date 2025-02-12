@@ -40,3 +40,6 @@ Transforms your Dynamics CRM/CDS grid with a new look and feel, offering advance
 * [CURRENT_USER](/parameters/current_user/README.md)
 * [CURRENT_YEAR](/parameters/current_year/README.md)
 * [TODAY](/parameters/today/README.md)
+
+# DOWNLOAD CRM GRID PLUS 2
+* [Release](https://github.com/phuocle/Crm-Grid-Plus/releases)
