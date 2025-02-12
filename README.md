@@ -39,4 +39,4 @@ Transforms your Dynamics CRM/CDS grid with a new look and feel, offering advance
 * [CURRENT_MONTHYEAR](/parameters/current_monthyear/README.md)
 * [CURRENT_USER](/parameters/current_user/README.md)
 * [CURRENT_YEAR](/parameters/current_year/README.md)
-* [TODAY](/parameters/today/README.md)
+* [TODAY ](/parameters/today/README.md)
