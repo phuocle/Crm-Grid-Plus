@@ -3,7 +3,7 @@ Transforms your Dynamics CRM/CDS grid with a new look and feel, offering advance
 
 ![](demo.gif)
 
-**Working with Dynamics CRM/CDS, grids are a ubiquitous feature. You will encounter them in various contexts, including:**
+### Working with Dynamics CRM/CDS, grids are a ubiquitous feature. You will encounter them in various contexts, including:
 * Dashboard Grids
 * Entity Main List Grids
 * Form Grids
@@ -11,17 +11,17 @@ Transforms your Dynamics CRM/CDS grid with a new look and feel, offering advance
 * Advanced Find Grids
 * Lookup Window Grids
 
-**By default, you have the following capabilities**
+### By default, you have the following capabilities
 * Add or Remove Columns
 * Reorder Columns
 * Sort Columns
 * Adjust Column Widths
 
-**However, you may desire additional functionalities such as**
+### However, you may desire additional functionalities such as
 * **Row Formatting**: Apply alternating colors to odd and even rows for better readability
 * **Conditional Formatting**: Format rows based on conditions with options like bold, italic, text color, and background color
 
-**With CRM GRID PLUS 2, you can do that**
+### With CRM GRID PLUS 2, you can do that
 
 # CRM GRID PLUS 2 DEMO ENVIRONMENT
 * Url: **https://demo-crmgridplus2.crm5.dynamics.com**
