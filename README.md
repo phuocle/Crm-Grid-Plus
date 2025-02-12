@@ -21,7 +21,7 @@ Transforms your Dynamics CRM/CDS grid with a new look and feel, offering advance
 * **Row Formatting**: Apply alternating colors to odd and even rows for better readability
 * **Conditional Formatting**: Format rows based on conditions with options like bold, italic, text color, and background color
 
-### With CRM GRID PLUS 2, you can do that
+### 📌 With CRM GRID PLUS 2, you can do that
 
 # CRM GRID PLUS 2 DEMO ENVIRONMENT
 * Url: **https://demo-crmgridplus2.crm5.dynamics.com**
